@@ -1,5 +1,7 @@
 // import logo from '../logo.svg';
-import '../style.css';
+import '../style/textStyle.css'; 
+import '../style/headerStyle.css'; 
+
 
 
 function Header() {

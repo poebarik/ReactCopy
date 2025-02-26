@@ -3,7 +3,9 @@ import footerLogo2 from '../images/footerLogo2.png';
 import footerLogo3 from '../images/footerLogo3.png';
 import footerLogo4 from '../images/footerLogo4.png';
 
-import '../style.css';
+import '../style/footerStyle.css'; 
+import '../style/textStyle.css'; 
+
 
 function Footer() {
   return (

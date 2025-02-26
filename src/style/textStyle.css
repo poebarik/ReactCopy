@@ -1,0 +1,48 @@
+.HeadingH1{
+    font-size: 48px;
+    font-family: 'Sen', sans-serif;
+    font-weight: 700;
+    line-height: 64px;
+    
+  }
+.HeadingH2{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Sen', sans-serif;
+    line-height: 48px;
+    color: #232536;
+  }
+  .HeadingH3{
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'Sen', sans-serif;
+    line-height: 40px;
+    color: #232536;
+  }
+  .HeadingH4{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Sen', sans-serif;
+    line-height: 32px;
+    color: #232536;
+  }
+  .Label01{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Sen', sans-serif;
+    line-height: 20px;
+    font-family: 'Inter', sans-serif;
+    color: #00000080;
+    
+  }
+  .Body1Text{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Sen', sans-serif;
+    line-height: 28px;
+    font-family: 'Inter', sans-serif;
+    color: #00000071;
+  }
+  .highlited2{
+    color:purple;
+  }

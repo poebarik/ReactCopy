@@ -1,0 +1,10 @@
+.NamesMain{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    text-align: center;
+}
+.NamesMain li{
+    font-family: 'Sen', sans-serif;
+    list-style-type: none;
+}
